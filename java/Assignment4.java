@@ -6,6 +6,6 @@ public class Assignment4 {
 
     public void test(){
         System.out.println("IntelliJ first Project");
-        System.out.println("Welcome to first Project----");
+
     }
 }
